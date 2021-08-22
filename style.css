@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img{
+    max-width: 100%;
+    width: 400px;
+}
+.btn-custom{
+    background: white;
+    padding: 4px;
+    margin: 6px;
+    font-size: 14px;
+}
+.btn-custom:hover{
+    background-color: rgb(68, 66, 66);
+   color: white;
+}
+.tr-border{
+   
+   border-bottom: 2px solid black !important;
+} 
+.last-border{
+    border-bottom: none;
+}
